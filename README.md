@@ -1,4 +1,4 @@
-# Design and Development of an Efficient and Intelligent Weathe Forecasting Application
+# Design and Development of an Efficient and Intelligent  Weather Forecasting Application
 
 🌤️ Efficient and Intelligent Weather Forecasting Web Application
 
