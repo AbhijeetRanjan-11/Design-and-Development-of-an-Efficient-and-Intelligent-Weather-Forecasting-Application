@@ -99,4 +99,6 @@ Our Solution Brings:
 
 📸 Screenshots
 
-(Add UI, mobile view, and responsive design screenshots here)
+![Mobile View](https://github.com/user-attachments/assets/d4f8b12d-94fb-4fbb-9c81-34637a547011)
+![Weather Forecasting App Result for an Specific Area](https://github.com/user-attachments/assets/eec26ea6-b0de-4666-b3a9-b0ae5aaf2553)
+
